@@ -1,11 +1,16 @@
-👋
+![GitHub OG Ronak Ganatra](https://media.graphcms.com/9JzwoL23QXuCMFPP7cvx)
 
-#### I'm Ronak
 
-I'm currently the Head of Growth at [GraphCMS](https://graphcms.com).
+I'm currently the Head of Marketing & Growth at **[GraphCMS](https://graphcms.com)**, based in Berlin, Germany
 
 I'm a big fan of sustainable growth, analytics & data, and marketing automation.
 
-I'm currently based in Berlin, Germany.
+Get in touch!
 
-Find me on [LinkedIn](https://linkedin.com/in/ronakganatra), [Twitter](https://twitter.com/gunnyganatra), or [Instagram](https://instagram.com/gunnyganatra).
+🌍 **[Read my posts on my website](https:ronakganatra.com/?utm_source=GitHub)**
+
+🐔 **[@ me on Twitter](https://twitter.com/gunnyganatra)**
+
+🤵 **[Connect with me on LinkedIn](https://linkedin.com/in/ronakganatra)**
+
+📸 **[Stalk me on Instagram](https://instagram.com/gunnyganatra)**
