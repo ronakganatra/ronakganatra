@@ -7,7 +7,7 @@ I'm a big fan of sustainable growth, analytics & data, and marketing automation.
 
 Get in touch!
 
-🌍 **[Read my posts on my website](https:ronakganatra.com/?utm_source=GitHub)**
+🌍 **[Read my posts on my website](https://ronakganatra.com/?utm_source=GitHub)**
 
 🐔 **[@ me on Twitter](https://twitter.com/gunnyganatra)**
 
