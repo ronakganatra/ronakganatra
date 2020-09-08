@@ -21,7 +21,7 @@ export default class MyGatsbyComponent extends React.Component {
   _handleSubmit = async (e) => {
     e.preventDefault();
     const result = await addToMailchimp(this.state.email);
-    if (result.result == "success") {
+    if (result.result === "success") {
         this.setState({email: "", submitted: true, success: true})
     }
     

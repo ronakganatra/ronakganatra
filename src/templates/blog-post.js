@@ -46,8 +46,9 @@ function BlogPostTemplate({
                   <dd className="text-gray-900">{page.author.name}</dd>
                   {page.author.title && (
                     <React.Fragment>
+                      <a href="https://twitter.com/gunnyganatra" target="_blank" rel="noreferrer">
                       <dt className="sr-only">Title</dt>
-                      <dd className="text-gray-500">{page.author.title}</dd>
+                      <dd className="text-indigo-500">{page.author.title}</dd></a>
                     </React.Fragment>
                   )}
                 </dl>

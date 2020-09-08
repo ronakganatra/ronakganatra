@@ -9,9 +9,8 @@ function IndexPage({ data: { allGraphCmsPost } }) {
           Hi, I'm Ronak
         </h1>
         <p className="text-lg leading-7 text-gray-800">
-          Currently the Head of Marketing and Growth at GraphCMS, I'm an excessive space occupier, free wifi enthusiast, domain hoarder, and pizza purist. 
+          I'm a sustainable marketing and growth lover who's a fan of marketing automation and overengineering things. I'm also a pizza purist, domain hoarder, and free wifi enthusiast, who's currently the Head of Marketing and Growth at <strong><a href="https://graphcms.com?referrer=ronakganatra" target="_blank" rel="noreferrer">GraphCMS</a></strong>.
           <br></br>
-          Also a big fan of sustainable growth, marketing automation, and overengineering things.
           <br></br>
           I write and rant about things related to marketing, growth, and strategy.
         </p>
