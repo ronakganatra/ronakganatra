@@ -9,11 +9,11 @@ function IndexPage({ data: { allGraphCmsPost } }) {
           Hi, I'm Ronak
         </h1>
         <p className="text-lg leading-7 text-gray-800">
-          I'm currently the Head of Marketing and Growth at GraphCMS, based in Berlin.
-          <br></br>
-          I'm an excessive space occupier, free wifi enthusiast, domain hoarder, and pizza purist. 
+          Currently the Head of Marketing and Growth at GraphCMS, I'm an excessive space occupier, free wifi enthusiast, domain hoarder, and pizza purist. 
           <br></br>
           Also a big fan of sustainable growth, marketing automation, and overengineering things.
+          <br></br>
+          I write and rant about things related to marketing, growth, and strategy.
         </p>
         <p className="text-1xl leading-7 text-indigo-600">
         <strong><a href="mailto:gunny@ronakganatra.com">Get in touch!</a></strong>

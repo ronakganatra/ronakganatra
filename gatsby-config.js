@@ -21,6 +21,13 @@ module.exports = {
       },
     },
     'gatsby-plugin-react-helmet',
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+          endpoint: 'https://ronakganatra.us17.list-manage.com/subscribe/post?u=fe7458428d106b5e864c0f421&amp;id=55d57805ae',
+          timeout: 3500,
+      },
+  },
     `gatsby-plugin-sitemap`,
     'gatsby-plugin-sharp',
     {
