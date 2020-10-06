@@ -23,7 +23,7 @@
     "gatsby-plugin-react-svg": "3.0.0",
     "gatsby-plugin-sharp": "2.6.27",
     "gatsby-plugin-sitemap": "^2.4.12",
-    "gatsby-source-graphcms": "2.0.0-next.5",
+    "gatsby-source-graphcms": "2.0.0-next.8",
     "gatsby-transformer-sharp": "2.5.13",
     "react": "16.13.1",
     "react-dom": "16.13.1",
