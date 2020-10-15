@@ -17,7 +17,7 @@
     "gatsby-plugin-google-tagmanager": "^2.3.16",
     "gatsby-plugin-mailchimp": "^5.2.2",
     "gatsby-plugin-manifest": "^2.4.34",
-    "gatsby-plugin-mdx": "1.2.46",
+    "gatsby-plugin-mdx": "^1.2.46",
     "gatsby-plugin-postcss": "3.0.3",
     "gatsby-plugin-react-helmet": "3.3.14",
     "gatsby-plugin-react-svg": "3.0.0",
