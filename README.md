@@ -12,5 +12,3 @@ Get in touch!
 🐔 **[@ me on Twitter](https://twitter.com/gunnyganatra)**
 
 🤵 **[Connect with me on LinkedIn](https://linkedin.com/in/ronakganatra)**
-
-📸 **[Stalk me on Instagram](https://instagram.com/gunnyganatra)**
