@@ -25,8 +25,8 @@
     "gatsby-plugin-sitemap": "2.4.17",
     "gatsby-source-graphcms": "2.0.0",
     "gatsby-transformer-sharp": "2.5.18",
-    "react": "16.14.0",
-    "react-dom": "16.14.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
     "react-helmet": "6.1.0",
     "react-transition-group": "4.4.1"
   },
