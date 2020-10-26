@@ -1,5 +1,5 @@
 {
-  "automerge": false,
+  "automerge": true,
   "extends": ["config:base", "schedule:weekly"],
   "ignorePresets": [":semanticPrefixFixDepsChoreOthers"],
   "major": {
