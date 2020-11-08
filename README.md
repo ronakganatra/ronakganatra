@@ -1,7 +1,7 @@
 ![GitHub OG Ronak Ganatra](https://media.graphcms.com/9JzwoL23QXuCMFPP7cvx)
 
 
-I'm currently the Head of Marketing & Growth at **[GraphCMS](https://graphcms.com)**, based in Berlin, Germany
+I'm currently the VP of Marketing at **[GraphCMS](https://graphcms.com)**, based in Berlin, Germany
 
 I'm a big fan of sustainable growth, analytics & data, and marketing automation.
 
@@ -12,3 +12,5 @@ Get in touch!
 🐔 **[@ me on Twitter](https://twitter.com/gunnyganatra)**
 
 🤵 **[Connect with me on LinkedIn](https://linkedin.com/in/ronakganatra)**
+
+💻 **[Find tools for your stack](https://buildyourdxp.com)**
