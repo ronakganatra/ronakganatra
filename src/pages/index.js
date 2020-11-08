@@ -9,10 +9,10 @@ function IndexPage({ data: { allGraphCmsPost } }) {
           Hi, I'm Ronak
         </h1>
         <p className="text-lg leading-7 text-gray-800">
-          I'm a sustainable marketing and growth lover who's a fan of marketing automation and overengineering things. I'm also a pizza purist, domain hoarder, and free wifi enthusiast, who's currently the Head of Marketing and Growth at <strong><a href="https://graphcms.com?referrer=ronakganatra" target="_blank" rel="noreferrer">GraphCMS</a></strong>.
+          I'm a sustainable marketing and growth lover who's a fan of marketing automation and overengineering things. I'm also a pizza purist, domain hoarder, and free wifi enthusiast. I'm currently the VP of Marketing at <strong><a href="https://graphcms.com?referrer=ronakganatra" target="_blank" rel="noreferrer">GraphCMS</a></strong>, Co-Creator of <strong><a href="https://buildyourdxp.com?referrer=ronakganatra" target="_blank" rel="noreferrer">Build Your DXP</a></strong>, and a Marketing & Growth Mentor at <strong><a href="https://www.mentoring-club.com/the-mentors/ronak-ganatra?referrer=ronakganatra" target="_blank" rel="noreferrer">The Mentoring Club</a></strong>.
           <br></br>
           <br></br>
-          I write and rant about things related to marketing, growth, and strategy.
+          I write and rant about things related to marketing, growth, DXPs, and strategy.
         </p>
         <p className="text-1xl leading-7 text-indigo-600">
         <strong><a href="mailto:gunny@ronakganatra.com">Get in touch!</a></strong>
