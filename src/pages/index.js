@@ -5,11 +5,12 @@ function IndexPage({ data: { allGraphCmsPost } }) {
   return (
     <div className="divide-y divide-gray-200">
       <div className="pt-6 pb-8 space-y-2 md:space-y-5">
-        <h1 className="text-3xl leading-9 font-extrabold text-gray-900 tracking-tight sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+        <h1 className="text-3xl leading-9 font-extrabold text-gray-900 tracking-tight sm:text-4xl sm:leading-10 md:text-4xl md:leading-14">
           Hi, I'm Ronak
         </h1>
         <p className="text-lg leading-7 text-gray-800">
-          I'm a sustainable marketing and growth lover who's a fan of marketing automation and overengineering things. I'm also a pizza purist, domain hoarder, and free wifi enthusiast. I'm currently the VP of Marketing at <strong><a href="https://graphcms.com?referrer=ronakganatra" target="_blank" rel="noreferrer">GraphCMS</a></strong>, Co-Creator of <strong><a href="https://buildyourdxp.com?referrer=ronakganatra" target="_blank" rel="noreferrer">Build Your DXP</a></strong>, and a Marketing & Growth Mentor at <strong><a href="https://www.mentoring-club.com/the-mentors/ronak-ganatra?referrer=ronakganatra" target="_blank" rel="noreferrer">The Mentoring Club</a></strong>.
+          I'm a sustainable marketing and growth lover who's a fan of marketing automation and overengineering things. I'm also a pizza purist, domain hoarder, and free wifi enthusiast.
+          I'm currently the VP of Marketing at <strong><a href="https://graphcms.com?referrer=ronakganatra" target="_blank" rel="noreferrer">GraphCMS</a></strong>, Co-Creator of <strong><a href="https://buildyourdxp.com?referrer=ronakganatra" target="_blank" rel="noreferrer">Build Your DXP</a></strong>, and a Marketing & Growth Mentor at <strong><a href="https://www.mentoring-club.com/the-mentors/ronak-ganatra?referrer=ronakganatra" target="_blank" rel="noreferrer">The Mentoring Club</a></strong>.
           <br></br>
           <br></br>
           I write and rant about things related to marketing, growth, DXPs, and strategy.
