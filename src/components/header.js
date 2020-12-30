@@ -4,7 +4,6 @@ import { globalHistory, useLocation } from '@reach/router'
 import cx from 'classnames'
 
 import RonakGanatraLogo from '../svg/logo.svg'
-import RonakGanatraMark from '../svg/mark.svg'
 import Transition from './transition'
 
 function Header() {
@@ -39,7 +38,7 @@ function Header() {
           <div className="flex items-center justify-between w-full md:w-auto">
             <Link to="/" aria-label="Ronak Ganatra">
               <RonakGanatraLogo className="hidden sm:block h-10" />
-              <RonakGanatraMark className="h-10 sm:hidden" />
+              <RonakGanatraLogo className="h-10 sm:hidden" />
             </Link>
             <div className="-mr-2 flex items-center md:hidden">
               <button
@@ -108,7 +107,7 @@ function Header() {
             >
               <div className="px-2 pt-8 flex items-center justify-between">
                 <div>
-                  <RonakGanatraMark className="h-10" />
+                  <RonakGanatraLogo className="h-10" />
                 </div>
                 <div className="-mr-2">
                   <button
