@@ -26,7 +26,16 @@ function Footer() {
   return (
     <footer className="bg-black">
       <div className="flex flex-col md:flex-row items-center md:justify-between py-6 max-w-3xl mx-auto px-4 sm:px-6 lg:max-w-5xl space-y-6 md:space-y-0">
-      <ul className="inline-flex space-x-6">
+      
+        <p className="text-gray-100">
+        © Ronak Ganatra, 2015 - Present | Built with 
+        <a href="https://graphcms.com?referrer=ronakganatra"> GraphCMS</a>,
+        <a href="http://tailwindcss.com/"> Tailwind</a>, and
+        <a href="https://gatsbyjs.com"> Gatsby</a> | Deployed on
+        <a href="https://vercel.com"> Vercel</a>
+        </p>
+
+        <ul className="inline-flex space-x-6">
           {socialLinks.map(({ Component, href, title }, index) => (
             <li key={index}>
               <a
@@ -41,12 +50,6 @@ function Footer() {
             </li>
           ))}
         </ul>
-        <p className="text-gray-100">
-        © Ronak Ganatra, 2015 - Present | Powered by 
-        <a href="https://graphcms.com?referrer=ronakganatra"> GraphCMS</a> and
-        <a href="https://gatsbyjs.com"> Gatsby</a>. | Deployed on
-        <a href="https://vercel.com"> Vercel</a>.
-        </p>
 
       </div>
     </footer>
