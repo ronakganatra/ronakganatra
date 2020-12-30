@@ -32,18 +32,17 @@ export default class MyGatsbyComponent extends React.Component {
     
       return !this.state.submitted ? (<form onSubmit={this._handleSubmit}>
         <label>
-          Enter Your Email Address
-          <br></br><br></br>
           <input
           type="email"
           name="email"
           value={this.state.email}
+          placeholder="Email Address"
           onChange={this.handleInputChange}
-          style= {{border:"1px solid black"}}
+          style= {{border:"1px solid gray"}}
           />
         </label>
         <br></br><br></br>
-        <button type="submit">Submit</button>
+        <button type="submit" >Submit</button>
       </form>) : (<div>You're almost set! I've sent you an email to confirm your subscription (because GDPR compliance).</div>)
   }
 }
