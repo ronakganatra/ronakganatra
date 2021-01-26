@@ -1,7 +1,6 @@
 import React from 'react'
 import { graphql, Link } from 'gatsby'
 import Img from 'gatsby-image'
-import AddToMailchimp from '../components/mailchimp'
 import { MDXRenderer } from 'gatsby-plugin-mdx'
 
 function BlogPostTemplate({
@@ -99,15 +98,6 @@ function BlogPostTemplate({
             <Link to="/" className="text-indigo-500 hover:text-indigo-600">
               &larr; Back to homepage
             </Link>
-          </div>
-          <div className="pt-10">
-          <p>
-            <strong>Like what you read?</strong>
-            <br></br>
-            Get notified when there's new posts.
-          </p>
-          <br></br>
-          <AddToMailchimp/>
           </div>
           </footer>
       </div>
