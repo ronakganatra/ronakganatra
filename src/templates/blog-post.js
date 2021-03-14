@@ -75,7 +75,7 @@ function BlogPostTemplate({
                   <h2 className="text-xs tracking-wide uppercase text-gray-500">
                     Next Post
                   </h2>
-                  <div className="text-indigo-500 hover:text-indigo-600">
+                  <div className="text-indigo-500 hover:text-indigo-900">
                     <Link to={`/posts/${nextPost.slug}`}>{nextPost.title}</Link>
                   </div>
                 </div>
@@ -85,7 +85,7 @@ function BlogPostTemplate({
                   <h2 className="text-xs tracking-wide uppercase text-gray-500">
                     Previous Post
                   </h2>
-                  <div className="text-indigo-500 hover:text-indigo-600">
+                  <div className="text-indigo-500 hover:text-indigo-900">
                     <Link to={`/posts/${previousPost.slug}`}>
                       {previousPost.title}
                     </Link>
@@ -95,7 +95,7 @@ function BlogPostTemplate({
             </div>
           )}
           <div className="pt-8 pb-8">
-            <Link to="/" className="text-indigo-500 hover:text-indigo-600">
+            <Link to="/" className="text-indigo-500 hover:text-indigo-900">
               &larr; Back to homepage
             </Link>
           </div>
