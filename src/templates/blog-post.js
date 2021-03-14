@@ -47,7 +47,7 @@ function BlogPostTemplate({
                     <React.Fragment>
                       <a href="https://twitter.com/gunnyganatra" target="_blank" rel="noreferrer">
                       <dt className="sr-only">Title</dt>
-                      <dd className="text-indigo-500">{page.author.title}</dd></a>
+                      <dd className="text-indigo-600">{page.author.title}</dd></a>
                     </React.Fragment>
                   )}
                 </dl>
@@ -75,7 +75,7 @@ function BlogPostTemplate({
                   <h2 className="text-xs tracking-wide uppercase text-gray-500">
                     Next Post
                   </h2>
-                  <div className="text-indigo-500 hover:text-indigo-600">
+                  <div className="text-indigo-600 hover:text-indigo-900">
                     <Link to={`/posts/${nextPost.slug}`}>{nextPost.title}</Link>
                   </div>
                 </div>
@@ -85,7 +85,7 @@ function BlogPostTemplate({
                   <h2 className="text-xs tracking-wide uppercase text-gray-500">
                     Previous Post
                   </h2>
-                  <div className="text-indigo-500 hover:text-indigo-600">
+                  <div className="text-indigo-600 hover:text-indigo-900">
                     <Link to={`/posts/${previousPost.slug}`}>
                       {previousPost.title}
                     </Link>
@@ -95,7 +95,7 @@ function BlogPostTemplate({
             </div>
           )}
           <div className="pt-8 pb-8">
-            <Link to="/" className="text-indigo-500 hover:text-indigo-600">
+            <Link to="/" className="text-indigo-600 hover:text-indigo-900">
               &larr; Back to homepage
             </Link>
           </div>

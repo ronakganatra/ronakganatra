@@ -50,7 +50,7 @@ function IndexPage({ data: { allGraphCmsPost } }) {
                   <div className="text-base leading-6 font-medium">
                     <Link
                       to={`/posts/${post.slug}`}
-                      className="text-indigo-500 hover:text-indigo-600"
+                      className="text-indigo-600 hover:text-indigo-900"
                       aria-label={`Read "${post.title}"`}
                     >
                       Read more &rarr;

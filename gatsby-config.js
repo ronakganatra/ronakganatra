@@ -21,10 +21,18 @@ module.exports = {
       },
     },
     'gatsby-plugin-react-helmet',
-    `gatsby-plugin-sitemap`,
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://www.ronakganatra.com',
+        sitemap: 'https://www.ronakganatra.com/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
+    },
+    'gatsby-plugin-sitemap',
     'gatsby-plugin-sharp',
     {
-      resolve: `gatsby-plugin-manifest`,
+      resolve: 'gatsby-plugin-manifest',
       options: {
         name: "Ronak Ganatra",
         short_name: "GunnyGanatra",
