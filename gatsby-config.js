@@ -5,10 +5,10 @@ module.exports = {
     title: 'Ronak Ganatra',
     siteUrl: `https://ronakganatra.com`,
     description:
-      'Hi there! Ronak here. Currently the Head of Marketing and Growth at GraphCMS, and a big fan of sustainable growth and marketing automation.',
-    keywords: 'Ronak Ganatra',
+      'Hi there! Ronak here. Currently the VP of Marketing and Growth at GraphCMS, and a big fan of sustainable growth and marketing automation.',
+    keywords: 'Ronak Ganatra, Ronak, Ganatra, GraphCMS',
     image: "/images/Ronak-Ganatra-OG.png",
-    twitterUsername: "@gunnyganatra",
+    twitterUsername: "gunnyganatra",
   },
   plugins: [
     'gatsby-plugin-mdx',
