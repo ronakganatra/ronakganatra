@@ -9,7 +9,7 @@ function BlogPostTemplate({
 }) {
   return (
     <article>
-      <header className="pt-6 lg:pb-10">
+      <header className="pt-10 lg:pb-10 divide-y">
         <div className="space-y-1 text-center">
           <dl className="space-y-10">
             <div>

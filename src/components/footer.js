@@ -27,10 +27,10 @@ function Footer() {
     <footer className="bg-black">
       <div className="flex flex-col md:flex-row items-center md:justify-between py-6 max-w-3xl mx-auto px-4 sm:px-6 lg:max-w-5xl space-y-6 md:space-y-0">
       
-        <p className="text-gray-100">
+        <p className="text-white">
         © Ronak Ganatra, 2015 - Present | Built with 
         <a href="https://graphcms.com?referrer=ronakganatra"> GraphCMS</a>,
-        <a href="http://tailwindcss.com/"> Tailwind</a>, and
+        <a href="http://tailwindcss.com/"> TailwindCSS</a>, and
         <a href="https://gatsbyjs.com"> Gatsby</a> | Deployed on
         <a href="https://vercel.com"> Vercel</a>
         </p>
@@ -41,7 +41,7 @@ function Footer() {
               <a
                 href={href}
                 target="_blank"
-                className="block text-gray-300 hover:text-white p-1 text-sm"
+                className="block text-gray-100 hover:text-indigo-300 p-1 text-sm"
                 rel="noopener noreferrer"
                 title={title}
               >
