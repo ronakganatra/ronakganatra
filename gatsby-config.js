@@ -2,12 +2,11 @@ require('dotenv').config()
 
 module.exports = {
   siteMetadata: {
-    title: 'Ronak Ganatra',
+    title: `Ronak Ganatra`,
     siteUrl: `https://ronakganatra.com`,
-    description:
-      'Hi there! Ronak here. Currently the VP of Marketing and Growth at GraphCMS, and a big fan of sustainable growth and marketing automation.',
+    description: `Hi there! Ronak here. Currently the VP of Marketing and Growth at GraphCMS, and a big fan of sustainable growth and marketing automation.`,
     keywords: 'Ronak Ganatra, Ronak, Ganatra, GraphCMS',
-    image: "/images/Ronak-Ganatra-OG.png",
+    image: `https://media.graphcms.com/jRoa4CkvQOmplQekrXIW`,
     twitterUsername: "gunnyganatra",
   },
   plugins: [
