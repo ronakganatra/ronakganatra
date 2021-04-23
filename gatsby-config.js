@@ -6,7 +6,7 @@ module.exports = {
     siteUrl: `https://ronakganatra.com`,
     description: `Hi there! Ronak here. Currently the VP of Marketing and Growth at GraphCMS, and a big fan of sustainable growth and marketing automation.`,
     keywords: 'Ronak Ganatra, Ronak, Ganatra, GraphCMS',
-    image: `https://media.graphcms.com/jRoa4CkvQOmplQekrXIW`,
+    image: "/images/Ronak-Ganatra-OG.png",
     twitterUsername: "gunnyganatra",
   },
   plugins: [
