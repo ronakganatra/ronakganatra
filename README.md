@@ -1,5 +1,3 @@
-![Sup](https://c.tenor.com/7vkp3YLCmjEAAAAd/bear-sup.gif)
-
 👋 Hi, I'm Ronak - currently the VP of Marketing at **[GraphCMS](https://graphcms.com)**, and co-creator of [Build Your DXP](https://buildyourdxp.com). I'm based in Berlin, Germany.
 
 I'm a big fan of sustainable growth, analytics & data, and marketing automation.
