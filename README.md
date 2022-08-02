@@ -1,10 +1,8 @@
-👋 Hi, I'm Ronak - currently the VP of Marketing at **[GraphCMS](https://graphcms.com)**, and co-creator of [Build Your DXP](https://buildyourdxp.com). I'm based in Berlin, Germany.
+I'm Ronak. I'm a sustainable growth and marketing lover who's a fan of over-engineering things. I'm currently the Director of Marketing at [Lano](https://lano.io/), working on some great projects with an incredible team. I'm also a [MACH Alliance](https://machalliance.org/) ambassador, co-creator of [BuildYourDXP](https://buildyourdxp.com/), and building a [Developer Marketing community](https://marketingto.dev/) with [Jakub Czakon](https://twitter.com/jczakon/).
 
-I'm a big fan of sustainable growth, analytics & data, and marketing automation.
+I'm passionate about Sustainable Growth, Developer Marketing, API Marketing, DXPs, and Composable Experience Architectures (MACH).
 
-Along with [Seb Agudelo](https://twitter.com/sebagudelo), I'm also kickstarting a [developer marketing community](https://marketingto.dev/)! [Request an invite](https://marketingto.dev/) and come say hi 👋
-
-Get in touch on - **[Website](https://ronakganatra.com/?utm_source=GitHub)** | **[Twitter](https://twitter.com/gunnyganatra)** | **[LinkedIn](https://linkedin.com/in/ronakganatra)**
+You can connect with me on [Twitter](https://twitter.com/gunnyganatra) or [LinkedIn](https://linkedin.com/in/ronakganatra). If you're building a product or startup in the SaaS, API, or Developer Tooling category and would like to discuss marketing and growth, [get in touch](https://ronakganatra.com/contact)!
 
 Looking for some free resources (de-fluffed?)? Check out:
 
