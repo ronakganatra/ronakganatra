@@ -4,7 +4,6 @@ I'm passionate about Sustainable Growth, Developer Marketing, API Marketing, DXP
 
 You can connect with me on [Twitter](https://twitter.com/gunnyganatra) or [LinkedIn](https://linkedin.com/in/ronakganatra). If you're building a product or startup in the SaaS, API, or Developer Tooling category and would like to discuss marketing and growth, [get in touch](https://ronakganatra.com/contact)!
 
-Looking for some free resources (de-fluffed?)? Check out:
-
-- [awesome-marketing](https://github.com/ronakganatra/awesome-marketing)
-- [awesome-developer-marketing](https://github.com/ronakganatra/awesome-developer-marketing)
+- [Join the Developer Marketing Community](https://marketingto.dev)
+- [`awesome-marketing` for marketing resources](https://github.com/ronakganatra/awesome-marketing)
+- [`awesome-developer-marketing` for developer marketing resources](https://github.com/ronakganatra/awesome-developer-marketing)
