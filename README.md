@@ -1,6 +1,10 @@
-I'm Ronak. I'm a sustainable growth and marketing lover who's a fan of over-engineering things. I'm currently working on building [Savepad](https://savepad.app) - A collaborative SaaS for cross-functional teams to collect, categorize, curate, and reference resources.
+I'm Ronak. I'm a sustainable growth and marketing lover who's a fan of over-engineering things.
 
-I also co-run a [Developer Marketing community](https://marketingto.dev/) with [Jakub Czakon](https://twitter.com/jczakon/).
+I'm currently working on building [Savepad](https://savepad.app) - A collaborative SaaS for cross-functional teams to collect, categorize, curate, and reference resources.
+
+[<img src="https://savepad.app/wp-content/uploads/Savepad-By-your-side-when-inspiration-hits.png">](https://savepad.app)
+
+I'm also the Director of Marketing at [Lano](https://lano.io), and co-run a [Developer Marketing community](https://marketingto.dev/) with [Jakub Czakon](https://twitter.com/jczakon/).
 
 You can connect with me on [Twitter](https://twitter.com/gunnyganatra) or [LinkedIn](https://linkedin.com/in/ronakganatra).
 
