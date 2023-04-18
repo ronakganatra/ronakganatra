@@ -1,6 +1,6 @@
 I'm Ronak. I'm a sustainable growth and marketing lover who's a fan of over-engineering things.
 
-I'm currently working on building [Savepad](https://savepad.app) - A collaborative SaaS for cross-functional teams to collect, categorize, curate, and reference resources.
+I'm currently working on building [Savepad](https://savepad.app) - A collaborative SaaS for cross-functional teams to collect, categorize, curate, and reference resources. Join the waitlist 👇
 
 [<img src="https://savepad.app/wp-content/uploads/Savepad-By-your-side-when-inspiration-hits.png">](https://savepad.app)
 
