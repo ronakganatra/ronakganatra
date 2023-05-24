@@ -4,7 +4,7 @@ I'm currently working on building [Savepad](https://savepad.app) - A collaborati
 
 [<img src="https://savepad.app/wp-content/uploads/Savepad-By-your-side-when-inspiration-hits.png">](https://savepad.app)
 
-I'm also the Director of Marketing at [Lano](https://lano.io), and co-run a [Developer Marketing community](https://marketingto.dev/) with [Jakub Czakon](https://twitter.com/jczakon/).
+I'm also the Director of Marketing at [Lano](https://lano.io), and co-run a [Developer Marketing community](https://marketingto.dev/) with [Kuba](https://twitter.com/jczakon/), [Ophir](https://www.linkedin.com/in/ophirprusak/). and [Flo](https://twitter.com/fmerian)
 
 You can connect with me on [Twitter](https://twitter.com/gunnyganatra) or [LinkedIn](https://linkedin.com/in/ronakganatra).
 
