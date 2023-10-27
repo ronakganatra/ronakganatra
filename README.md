@@ -1,16 +1,15 @@
-I'm Ronak. I'm a sustainable growth and marketing lover who's a fan of over-engineering things.
+![wave.gif](https://ronakganatra.com/wave.gif)
 
 I'm currently working on building [Savepad](https://savepad.app) - A collaborative SaaS for cross-functional teams to collect, categorize, curate, and reference resources. Join the waitlist 👇
 
 [<img src="https://savepad.app/wp-content/uploads/Savepad-By-your-side-when-inspiration-hits.png">](https://savepad.app)
 
-I'm also the Director of Marketing at [Lano](https://lano.io), and co-run a [Developer Marketing community](https://marketingto.dev/) with [Kuba](https://twitter.com/jczakon/), [Ophir](https://www.linkedin.com/in/ophirprusak/). and [Flo](https://twitter.com/fmerian)
+Here's the fun stuff I'm working on 👇
+
+- Co-building Savepad - [Join the waitlist!](https://savepad.app)
+- Co-running a dev marketing community with 1K+ folks from great companies like Vercel, Kong, Posthog, and Docker  - [Request an invite](https://marketingto.dev)
+- Curating marketing resources on [`awesome-marketing`](https://github.com/ronakganatra/awesome-marketing)
+- Curating developer marketing resources on [`awesome-developer-marketing`](https://github.com/ronakganatra/awesome-developer-marketing)
+- Occasionally ranting on my [blog](https://ronakganatra.com)
 
 You can connect with me on [Twitter](https://twitter.com/gunnyganatra) or [LinkedIn](https://linkedin.com/in/ronakganatra).
-
-If you're building a product or startup in the SaaS, API, or Developer Tooling category and would like to discuss marketing and growth, [get in touch](https://ronakganatra.com/contact)!
-
-- [Join the Savepad waitlist!](https://savepad.app)
-- [Join the Developer Marketing Community](https://marketingto.dev)
-- [`awesome-marketing` for marketing resources](https://github.com/ronakganatra/awesome-marketing)
-- [`awesome-developer-marketing` for developer marketing resources](https://github.com/ronakganatra/awesome-developer-marketing)
