@@ -9,7 +9,7 @@ Join the waitlist 👇
 Here's the fun stuff I'm working on 👇
 
 - Co-building Savepad - [Join the waitlist!](https://savepad.app)
-- Co-running a dev marketing community with 1K+ folks from great companies like Vercel, Kong, Posthog, and Docker  - [Request an invite](https://marketingto.dev)
+- Co-running a dev mkt Slack with 1K+ folks from API companies like Kong, Posthog, and Docker - [Request an invite](https://marketingto.dev)
 - Curating marketing resources on [`awesome-marketing`](https://github.com/ronakganatra/awesome-marketing)
 - Curating developer marketing resources on [`awesome-developer-marketing`](https://github.com/ronakganatra/awesome-developer-marketing)
 - Occasionally ranting on my [blog](https://ronakganatra.com)
