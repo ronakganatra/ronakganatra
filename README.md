@@ -1,6 +1,6 @@
 <img src="https://ronakganatra.com/wave.gif" alt="hi" width="60"/>
 
-I'm currently working on building [Savepad](https://savepad.app) - A collaborative SaaS for cross-functional teams to collect, categorize, curate, and reference resources.
+I'm currently heading marketing at [DatoCMS](https://datocms.com), and working on building [Savepad](https://savepad.app) - A collaborative SaaS for cross-functional teams to collect, categorize, curate, and reference resources.
 
 Join the waitlist 👇
 
