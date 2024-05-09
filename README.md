@@ -1,10 +1,10 @@
-<img src="https://ronakganatra.com/wave.gif" alt="hi" width="60"/>
+👋
 
 I'm currently heading marketing at [DatoCMS](https://datocms.com), and working on building [Savepad](https://savepad.app) - A collaborative SaaS for cross-functional teams to collect, categorize, curate, and reference resources.
 
 Join the waitlist 👇
 
-[<img alt="Savepad Waitlist" width="512px" src="https://savepad.app/wp-content/uploads/Savepad-By-your-side-when-inspiration-hits.png" />](https://savepad.app)
+[<img alt="Savepad Waitlist" width="512px" src="https://savepad.app/wp-content/uploads/GitHub.png" />](https://savepad.app)
 
 Here's the fun stuff I'm working on 👇
 
