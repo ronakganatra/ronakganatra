@@ -4,7 +4,7 @@ I'm currently heading marketing at [DatoCMS](https://datocms.com), and working o
 
 Join the waitlist 👇
 
-[<img alt="Savepad Waitlist" width="512px" src="https://savepad.app/wp-content/uploads/GitHub.png" />](https://savepad.app)
+[<img alt="Savepad Waitlist" src="https://savepad.app/wp-content/uploads/GitHub.png" />](https://savepad.app)
 
 Here's the fun stuff I'm working on 👇
 
